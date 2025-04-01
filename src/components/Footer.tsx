@@ -1,7 +1,6 @@
 
 import React from 'react';
 import { Github, Heart } from 'lucide-react';
-import { Link } from 'react-router-dom';
 
 const Footer = () => {
   return (
@@ -31,19 +30,14 @@ const Footer = () => {
                 </a>
               </li>
               <li>
-                <Link to="/resources" className="text-minecraft-grass hover:underline">
-                  MCP Resources
-                </Link>
-              </li>
-              <li>
-                <Link to="/submit" className="text-minecraft-grass hover:underline">
+                <a href="/submit" className="text-minecraft-grass hover:underline">
                   Submit Your Server
-                </Link>
+                </a>
               </li>
               <li>
-                <Link to="/about" className="text-minecraft-grass hover:underline">
+                <a href="/about" className="text-minecraft-grass hover:underline">
                   About This Project
-                </Link>
+                </a>
               </li>
             </ul>
           </div>
