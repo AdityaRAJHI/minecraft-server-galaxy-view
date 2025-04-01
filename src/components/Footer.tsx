@@ -69,7 +69,7 @@ const Footer = () => {
             © {new Date().getFullYear()} MCP Servers Directory. All rights reserved.
           </p>
           <p className="text-gray-500 text-sm flex items-center gap-1 mt-2 md:mt-0">
-            Made with <Heart className="w-4 h-4 text-red-500" /> by the Minecraft community
+            Made with <Heart className="w-4 h-4 text-red-500" /> by the Rajmcp community
           </p>
         </div>
       </div>

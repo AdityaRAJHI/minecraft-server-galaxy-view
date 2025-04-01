@@ -75,7 +75,7 @@ const About = () => {
               </div>
               <h3 className="font-bold mb-2">Community Driven</h3>
               <p className="text-gray-600 text-sm">
-                Powered by the Minecraft community's recommendations and feedback
+                Powered by the Rajmcp community's recommendations and feedback
               </p>
             </div>
           </div>
