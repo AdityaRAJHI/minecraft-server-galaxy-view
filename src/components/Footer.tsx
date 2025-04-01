@@ -20,7 +20,7 @@ const Footer = () => {
             <ul className="space-y-2">
               <li>
                 <a 
-                  href="https://github.com/rajxvision/awesome-mcp-servers" 
+                  href="https://github.com/AdityaRAJHI/mcp-rks" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="text-minecraft-grass hover:underline flex items-center gap-2"

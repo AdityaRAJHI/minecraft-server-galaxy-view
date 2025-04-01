@@ -22,7 +22,7 @@ const Navbar = () => {
             Submit Server
           </Link>
           <a 
-            href="https://github.com/rajxvision/awesome-mcp-servers" 
+            href="https://github.com/AdityaRAJHI/mcp-rks" 
             target="_blank" 
             rel="noopener noreferrer"
             className="p-2 text-gray-600 hover:text-gray-900 transition-colors"

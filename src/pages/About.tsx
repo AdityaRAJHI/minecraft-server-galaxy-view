@@ -18,12 +18,12 @@ const About = () => {
           <p className="text-gray-700 mb-4">
             This website is based on the awesome GitHub repository 
             <a 
-              href="https://github.com/rajxvision/awesome-mcp-servers" 
+              href="https://github.com/AdityaRAJHI/mcp-rks" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-minecraft-grass hover:underline mx-1"
             >
-              rajxvision/awesome-mcp-servers
+              AdityaRAJHI/mcp-rks
             </a>
             which aims to collect and showcase the best Minecraft PE servers from around the world.
           </p>
@@ -31,7 +31,7 @@ const About = () => {
           <div className="flex justify-center mt-6">
             <Button asChild>
               <a 
-                href="https://github.com/rajxvision/awesome-mcp-servers" 
+                href="https://github.com/AdityaRAJHI/mcp-rks" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="flex items-center gap-2"
@@ -97,7 +97,7 @@ const About = () => {
             <li>
               <strong>GitHub contribution:</strong> Submit a pull request to our 
               <a 
-                href="https://github.com/rajxvision/awesome-mcp-servers" 
+                href="https://github.com/AdityaRAJHI/mcp-rks" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="text-minecraft-grass hover:underline mx-1"
@@ -116,7 +116,7 @@ const About = () => {
             </Button>
             <Button asChild variant="outline">
               <a 
-                href="https://github.com/rajxvision/awesome-mcp-servers/issues" 
+                href="https://github.com/AdityaRAJHI/mcp-rks/issues" 
                 target="_blank" 
                 rel="noopener noreferrer"
               >
